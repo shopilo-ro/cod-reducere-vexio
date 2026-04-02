@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-vexio",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Vexio de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-vexio",
+    "voucher-vexio",
+    "cupon-vexio",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/vexio.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-vexio.git"
+  }
+}
